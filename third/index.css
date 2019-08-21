@@ -1,0 +1,44 @@
+.first {
+  width: 100%;
+  height: 150px;
+  background: rgb(211, 210, 211);
+  margin: 0;
+  display: flex;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  margin: 18px;
+}
+p {
+  text-align: center;
+  padding: 64px;
+  font-size: 21px;
+}
+
+.second {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+}
+
+.box_1 {
+  height: 150px;
+  background: rgb(46, 133, 229);
+}
+.box_2 {
+  height: 150px;
+  background: rgb(0, 228, 184);
+}
+.box_3 {
+  height: 150px;
+  background: rgb(159, 233, 109);
+}
+.box_4 {
+  height: 150px;
+  background: rgb(249, 229, 0);
+}
