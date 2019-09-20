@@ -60,4 +60,6 @@
 .word {
   margin: auto;
   font-size: 26px;
+  letter-spacing: 8px;
+  margin: -17px;
 }
